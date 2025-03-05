@@ -1,0 +1,4 @@
+.local_history
+.ipynb_checkpoints
+centernet_preds
+__pycache__
